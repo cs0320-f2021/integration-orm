@@ -1,4 +1,4 @@
-package edu.brown.cs.hdandapa.rent;
+package edu.brown.cs.hdandapa.database;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
